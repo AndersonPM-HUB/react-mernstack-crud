@@ -1,5 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
+//importar bootstrap y los componentes
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+//renderiza la aplicacion , la pagina principal el jpa
 
 function App() {
   return (
